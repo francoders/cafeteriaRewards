@@ -7,9 +7,11 @@
 // </generado automáticamente>
 //------------------------------------------------------------------------------
 
-namespace CafeteriaRewards_Web {
-    
-    
-    public partial class Default {
+namespace CafeteriaRewards_Web
+{
+
+
+    public partial class Default
+    {
     }
 }

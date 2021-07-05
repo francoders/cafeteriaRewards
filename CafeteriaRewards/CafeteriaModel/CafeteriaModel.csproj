@@ -41,7 +41,13 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="DAL\BebidasDAL.cs" />
+    <Compile Include="DAL\ClientesDAL.cs" />
+    <Compile Include="DTO\Bebida.cs" />
+    <Compile Include="DTO\Cliente.cs" />
+    <Compile Include="Partials\ClienteParcial.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
